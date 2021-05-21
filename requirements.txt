@@ -20,5 +20,5 @@ jupyter-core==4.5.0
 jupyterlab==1.0.2
 jupyterlab-server==1.0.0
 tensorboard==2.0.1
-tensorflow==2.0.1
+tensorflow==2.5.0
 tensorflow-estimator==2.0.1
